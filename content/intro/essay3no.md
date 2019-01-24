@@ -1,17 +1,12 @@
 ---
-title: Video
-subtitle: Clint's long video goes here
+title: Video to come
+subtitle:
 weight: 48
 image: rose.jpg
 type: essay
 ---
 
-**This is all placeholder/dummy content until we get the video.**
-<br>
-<br>
-With Merovingian art the story of French styles as a distinct and
-influential element in the wider development of the art of Christian Europe
-begins. ({{< q-cite "Faure 1909" "54" >}})
+**This is all placeholder video until we get the final edit. <br>
+Check back soon!**
 
-
-{{< q-deepzoom image="http://evil-manifests.davidnewbury.com/iiif/images/garden-1/info.json" >}}
+{{< q-figure id="vid" caption="<br>will this work">}}
